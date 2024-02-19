@@ -7,11 +7,8 @@
 - Totalmente otimizado, performance máxima
 - Pode criar infinitos vips
 - Apenas tem banco de dados SQLite
+- Envia uma webhook no discord ao player ativar o vip
 
 ## Comandos
 
 - ativarvip <tipo> - Ativa um vip do tipo colocado de argumento
-
-## Dependências
-
-- SpacePlugins (Necessário estar na última versão)
